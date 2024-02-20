@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 const banane = 1;
 const pomme = 1.50;
 const vin = 10; 
