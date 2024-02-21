@@ -83,7 +83,7 @@ $group1->removeStudent($studentMove->name);
 $group2->addStudent($studentMove);
 
 
-echo "\nAprès le déplacement de l'étudiant" . "<br>";
+echo "Après le déplacement" . "<br>";
 echo "Score moyen du groupe 1: " . $group1->getScore() . "<br>";
 echo "Score moyen du groupe 2: " . $group2->getScore() . "<br>";
 
